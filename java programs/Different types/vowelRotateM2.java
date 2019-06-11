@@ -1,6 +1,6 @@
-package programs;
+// Rotate vowels in a given word
 
-import java.util.Scanner;
+// Method 2 - Storing it in a character array and displaying the string
 
 public class vowelRotateM2 {
 	public static void main (String[] args) {
