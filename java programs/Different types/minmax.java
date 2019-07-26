@@ -1,4 +1,4 @@
-Print the values alternatively from the existing array
+//Print the values alternatively from the existing array
 
 import java.util.Scanner;
 
